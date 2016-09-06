@@ -1,0 +1,41 @@
+body {
+	background-color: #5BC0BE;
+	
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+}
+#about-me-wrap {
+    background-color: #fff;
+    padding: 50px;
+    width: 60%;
+    margin: 100px auto;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+	border-bottom: 4px solid #000;
+	padding-bottom: 10px;
+	}
+ul.profile-social-links {
+	padding: 0;
+}
+ul.profile-social-links li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 15px;
+}
+#profile-wrap {
+	width: 40%;
+	margin-right: 10%;
+	float: left;
+}
+
+#bio-wrap {
+	width: 50%;
+	float: right;
+}
+.clear {
+	clear: both;
+}
+
